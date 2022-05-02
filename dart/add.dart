@@ -1,4 +1,3 @@
-import 'dart:io';
 import 'dart:ffi';
 
 typedef Cfunc = Int32 Function(Int32, Int32);
